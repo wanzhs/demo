@@ -12,12 +12,12 @@ class DemoApplicationTests {
     }
 
     @Test
-    void test1(){
+    public void test1(){
         System.out.println("=============test1=================");
     }
 
     @Test
-    void test2(){
+    public void test2(){
         System.out.println("=============test2=================");
     }
 
